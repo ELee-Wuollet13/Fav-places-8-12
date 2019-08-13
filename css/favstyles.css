@@ -1,0 +1,29 @@
+h1  {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+title {
+  text-align: center;
+}
+
+ul li {
+  list-style-position: inside;
+  text-indent: -50px;
+}
+
+img{
+  width: 350px;
+  height: 220px;
+
+}
